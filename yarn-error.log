@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js init -y
+
+PATH: 
+  C:\Users\ViniciusMelo\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ViniciusMelo\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Users\ViniciusMelo\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\OpenSSL-Win64\bin;C:\Users\ViniciusMelo\AppData\Local\Microsoft\WindowsApps;C:\Users\ViniciusMelo\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\ViniciusMelo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.19.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\repositorios\pipeline\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Users\ViniciusMelo\AppData\Roaming\nvm\v16.19.0\node_modules\yarn\lib\cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\ViniciusMelo\AppData\Roaming\nvm\v16.19.0\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\ViniciusMelo\AppData\Roaming\nvm\v16.19.0\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

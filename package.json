@@ -1,0 +1,22 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vinicius Melo <viniciusmelo241@gmail.com>",
+  "scripts": {
+    "dev": "nodemon ./main.js",
+    "start": "node ./main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "node-schedule": "^2.1.1",
+    "nodemailer": "^6.9.1",
+    "simple-git": "^3.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

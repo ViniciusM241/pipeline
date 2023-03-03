@@ -1,0 +1,18 @@
+{
+  "repos": [
+    {
+      "project-name": "dashboard-syspro-frontend",
+      "repoURL": "https://github.com/ViniciusM241/dashboard-syspro-frontend",
+      "src": "C:/repositorios/TESTE",
+      "forceUpdate": false,
+      "trackBranch": "develop"
+    },
+    {
+      "project-name": "dashboard-syspro-backend",
+      "repoURL": "https://github.com/ViniciusM241/dashboard-syspro-backend",
+      "src": "C:/repositorios/TESTE_BACKEND",
+      "forceUpdate": false,
+      "trackBranch": "develop"
+    }
+  ]
+}
